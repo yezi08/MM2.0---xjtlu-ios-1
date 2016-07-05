@@ -10,11 +10,11 @@
 	"nosearchresults": "There were no results from your search",
 	"notenroled": "You are not enrolled in this module",
 	"notenrollable": "You can not enrol yourself in this module.",
-	"nocourses": "No course information to show.",
+	"nocourses": "No module information to show.",
 	"password": "Enrolment key",
 	"search": "Search",
 	"searchcourses": "Search modules",
-	"searchcoursesadvice": "You can use the search courses button to access as guest or enrol yourself in courses that allow it.",
+	"searchcoursesadvice": "You can use the search modules button to access as guest or enrol yourself in modules that allow it.",
 	"selfenrolment": "Self-enrolment",
 	"totalcoursesearchresults": "Total modules: {{$a}}"
 }
