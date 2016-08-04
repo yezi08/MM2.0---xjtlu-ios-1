@@ -31951,7 +31951,7 @@ angular.module('mm.addons.mod_quiz')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "cn.edu.xjtlu.icemobile",
+    "app_id" : "cn.edu.xjtlu.iceapp",
     "versioncode" : "2013",
     "versionname" : "3.1.1",
     "cache_expiration_time" : 300000,
